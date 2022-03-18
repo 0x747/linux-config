@@ -3,7 +3,6 @@ sudo apt upgrade -y
 
 # Eye candy
 sudo apt install neofetch -y
-sudo apt install pfetch -y
 sudo apt install cmatrix -y
 sudo apt install hollywood -y
 
