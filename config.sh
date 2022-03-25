@@ -1,3 +1,4 @@
+#!/bin/bash
 # chmod +x config.sh
 
 sudo apt update
