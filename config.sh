@@ -1,5 +1,6 @@
 #!/bin/bash
 # chmod +x config.sh
+# bash config.sh
 
 sudo apt update
 sudo apt upgrade -y
