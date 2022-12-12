@@ -2,8 +2,7 @@
 # chmod +x config.sh
 # bash config.sh
 
-sudo apt update
-sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 
 # Eye candy
 sudo apt install neofetch -y
